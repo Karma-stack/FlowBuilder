@@ -12,3 +12,5 @@ https://user-images.githubusercontent.com/47426878/156552064-920b0067-ecbb-4491-
 - Должны быть реализовано Zoom-In, Zoom-Out Canvas, перемещение по Canvas
 - Должно быть реализовано Undo/Redo дейтствий на Canvas. 
 - Должно быть реальзовано в **экосистеме Vue.js**
+
+Если будут вопросы по заданию, связаться можно по [WhatsApp](https://wa.me/77476010836)
